@@ -1,0 +1,83 @@
+[
+    {
+        "title": "Extras",
+        "items": [
+            {
+                "title": "16 Oz steamed rice",
+                "desc": "A side of steamed rice",
+                "img": "https://www.pringleapi.com/DigitalMenu/Products/270028.jpg",
+                "price": "$1.99"
+            },
+            {
+                "title": "8 Oz Mirchi ka Salan",
+                "desc": "Spicy chilli and peanut sauce for Biryanis",
+                "img": "https://www.pringleapi.com/DigitalMenu/Products/270029.jpg",
+                "price": "$1.99"
+            },
+            {
+                "title": "3.5 Oz Mirchi ka Salan",
+                "desc": "Spicy chilli and peanut sauce for Biryanis",
+                "img": "https://www.pringleapi.com/DigitalMenu/Products/270030.jpg",
+                "price": "$1.49"
+            },
+            {
+                "title": "8 Oz Onions and Lemons",
+                "desc": "Onions and Lemons",
+                "img": "https://www.pringleapi.com/DigitalMenu/Products/270033.jpg",
+                "price": "$1.49"
+            },
+            {
+                "title": "8 Oz Raita",
+                "desc": "Yogurt sauce with spice powder and veggies.",
+                "img": "https://www.pringleapi.com/DigitalMenu/Products/270031.jpg",
+                "price": "$1.49"
+            }
+        ]
+    }, 
+    {
+        "title": "North Indian Specials",
+        "items": [
+            {
+                "title": "Pav Bhaji (4 pav/bread)",
+                "desc": "A specialty of Bombay with uniquely curried mixed vegetables served with special Indian bread (pav)",
+                "img": "https://www.pringleapi.com/DigitalMenu/Products/16812.jpg",
+                "price": "$8.99"
+            },
+            {
+                "title": "Puri Bhaji (2 Puris)",
+                "desc": "Pieces of puffed wheat bread served with potato curry",
+                "img": "https://www.pringleapi.com/DigitalMenu/Products/16808.jpg",
+                "price": "$8.99"
+            },
+            {
+                "title": "Chole Bhatura (4 Baturas)",
+                "desc": "Puffed bread served with spiced garbanzo bean curry",
+                "img": "https://www.pringleapi.com/DigitalMenu/Products/16811.jpg",
+                "price": "$8.99"
+            }
+        ]
+    },
+    {
+        "title": "Chicken Entrees - with Rice",
+        "items": [
+            {
+                "title": "Butter Chicken",
+                "desc": "Boneless chicken cubes cooked with spices and indian herbs with buttery tomato sauce to give you a divine buttery taste",
+                "img": "https://www.pringleapi.com/DigitalMenu/Products/16794.jpg",
+                "price": "$11.99"
+            },
+            {
+                "title": "Chicken Tikka Masala (Chefs Specialty)",
+                "desc": "Boneless grilled chicken cubes cooked with bell pepers,onions, cream and tomato sauce with Indian herbs and spices",
+                "img": "https://www.pringleapi.com/DigitalMenu/Products/66001.jpg",
+                "price": "$11.99"
+            },
+            {
+                "title": "Kadai Chicken",
+                "desc": "A Northwest frontier specialty Chicken cooked with fried curry leaves, onions,bell peppers & spices",
+                "img": "https://www.pringleapi.com/DigitalMenu/Products/16804.jpg",
+                "price": "$11.99"
+            }
+        ]
+    }
+]
