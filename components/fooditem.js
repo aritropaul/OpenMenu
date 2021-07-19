@@ -7,7 +7,7 @@ export default function Item({title, img, desc, price}) {
                 <span className="dark:text-gray-500">{desc}</span>
             </div>
             <div className="flex flex-col items-start justify-start">
-                <span className="rounded-lg bg-red-500 dark:text-gray-50 font-medium text-sm absolute top-0 right-0 mt-10 mr-10 p-1">{price}</span>
+                <span className="rounded-lg bg-red-500 text-gray-50 font-medium text-sm absolute top-0 right-0 mt-10 mr-10 p-1">{price}</span>
             </div>
         </div>
     )
