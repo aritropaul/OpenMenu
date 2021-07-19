@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Category from './components/foodCategory'
+import Category from '../components/foodCategory'
 import menu from './menu.json'
 
 export default function Home() {
